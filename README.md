@@ -17,3 +17,4 @@ Materials Needed:
 12. Free time
 
 *NOTE- the LCD screen code is very buggy at the moment - it gets jumbled every time the system detects a change in state. Still needs fixing
+*Ensure that the water tray end of the tubing is not submerged - this may cause a siphoning effect that repeatedly causes the water to return to the resevoir after filling
