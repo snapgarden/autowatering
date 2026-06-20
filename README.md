@@ -1,0 +1,2 @@
+# autowatering
+Code and wiring instructions for my first Automated Watering System Prototype
