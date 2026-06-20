@@ -1,7 +1,7 @@
 /*
  ╔══════════════════════════════════════════╗
  ║        Auto Water System v1.0            ║
- ║   Arduino UNO R4 WiFi + I2C LCD 1602    ║
+ ║   Arduino UNO R4 WiFi + I2C LCD 1602     ║
  ╚══════════════════════════════════════════╝
 
  WIRING SUMMARY:
@@ -19,7 +19,7 @@
    Relay NO → Pump red wire
    Pump blk → Breadboard GND rail
 
- ⚠️  IMPORTANT - MISSING CONNECTION:
+ IMPORTANT:
    Relay COM must be connected to Breadboard 5V rail
    to complete the pump power circuit!
    Without this the pump will never run.
