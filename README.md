@@ -1,5 +1,6 @@
 # autowatering
 Code and wiring instructions for my first Automated Watering System Prototype
+All instructions are included in the FIRSTWORKING.ino file.
 
 Materials Needed:
 1. Arduino Uno (I used Arduino Uno R4 WIFI)
